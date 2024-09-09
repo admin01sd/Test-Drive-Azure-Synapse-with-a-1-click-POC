@@ -1,0 +1,11 @@
+{
+	"name": "NYCTaxiWorkspace1",
+	"properties": {
+		"annotations": [],
+		"type": "PowerBIWorkspace",
+		"typeProperties": {
+			"workspaceID": "8ee69c3c-f19d-4f2c-8f2f-c324ad492efa",
+			"tenantID": "c3e35bfb-01da-47da-a500-2c58aa0f4f1e"
+		}
+	}
+}
